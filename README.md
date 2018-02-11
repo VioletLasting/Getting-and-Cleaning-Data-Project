@@ -5,11 +5,11 @@ The project uses data from the accelerometers from the Samsung Galaxy S smartpho
 ## About the Repository
 
 This repository contains the following:
-1. tidy_data.txt : This txt file contains the data that was worked with and cleaned.
-2. run_analysis.R : This R script contains the codes used in performing the analysis.
-3. CodeBook.md : This code book describes the variables, the data, and any transformations or work that was performed to clean up the data.\
-4. README.md : This provides an overview of the repository and the steps done in transforming the data.
-5. UCI HAR Dataset : This contains the data sets used in this project.
+1. `tidy_data.txt` : This txt file contains the data that was worked with and cleaned.
+2. `run_analysis.R` : This R script contains the codes used in performing the analysis.
+3. `CodeBook.md` : This code book describes the variables, the data, and any transformations or work that was performed to clean up the data.
+4. `README.md` : This provides an overview of the repository and the steps done in transforming the data.
+5. `UCI HAR Dataset` : This contains the data sets used in this project.
 
 ## Data Transformation
 
