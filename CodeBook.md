@@ -20,7 +20,7 @@ The text file `tidy_data.txt` contains 81 variables and 180 observations.
 * `timeBodyAccelerometer-mean()-Y`
 * `timeBodyAccelerometer-mean()-Z`
 * `timeBodyAccelerometer-std()-X`
-* timeBodyAccelerometer-std()-Y`
+* `timeBodyAccelerometer-std()-Y`
 * `timeBodyAccelerometer-std()-Z`
 * `timeGravityAccelerometer-mean()-X`
 * `timeGravityAccelerometer-mean()-Y`
